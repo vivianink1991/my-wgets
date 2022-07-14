@@ -1,0 +1,22 @@
+{
+  "name": "my-wgets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianink1991/my-wgets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianink1991/my-wgets/issues"
+  },
+  "homepage": "https://github.com/vivianink1991/my-wgets#readme",
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  }
+}
